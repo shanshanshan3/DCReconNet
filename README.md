@@ -1,7 +1,7 @@
 # DCReconNet：Distortion-Corrected Image Reconstruction with Deep Learning on an MRI-Linac
 Authors: Shanshan Shan
 
-This repository contains the implementation of DCReconNet for distortion-corrected image reconstruction using Pytorch-gpu. For a quick test, the trained weights can be used. The folder Test_data contains 300 testing brain data and each data incudes the undersampled k-space, unersampling mask and distorted k-space trajectory.
+This repository contains the implementation of DCReconNet for distortion-corrected image reconstruction using Pytorch-gpu. For a quick test, the trained weights can be used. The folder Test_data contains 300 testing brain data and each data incudes the undersampled k-space, undersampling mask and distorted k-space trajectory.
 
 The architecture of the DCReconNet:
 
