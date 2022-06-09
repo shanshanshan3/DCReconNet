@@ -1,0 +1,4 @@
+numpy
+scipy
+torch<1.11.0
+torchkbnufft
